@@ -1,0 +1,11 @@
+Flask
+pyTelegramBotAPI
+qrcode
+opencv-python
+pyzbar
+pandas
+Pillow
+requests
+python-telegram-bot
+apscheduler
+pyuploadcare
